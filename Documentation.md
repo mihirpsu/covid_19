@@ -50,6 +50,12 @@
 9. Variable Importance Graph, Sensitivity and Specificity Analysis
 10. US County Level Map Generation
 
+# Citation:
+If you use this dataset, please cite the following:
+Early Stage Prediction of US County Vulnerability to the COVID-19 Pandemic
+Mihir Mehta, Juxihong Julaiti, Paul Griffin, Soundar Kumara
+medRxiv 2020.04.06.20055285; doi: https://doi.org/10.1101/2020.04.06.20055285
+
 ## References:
 1. U.S. Census Bureau PD. Annual Resident Population Estimates, Estimated Components of Resident Population Change, and Rates of the Components of Resident Population Change for States and Counties: April 1, 2010 to July 1, 2018. https://www2.census.gov/programs-surveys/popest/datasets/2010-2018/counties/asrh/cc-est2018alldata.csv. Published 2019. Accessed March 19, 2020.
 2. Website AFF. 2010 County Level Population Density. 2010. https://factfinder.census.gov/faces/tableservices/jsf/pages/productview.xhtml?src=bkmk. Accessed March 19, 2020.
